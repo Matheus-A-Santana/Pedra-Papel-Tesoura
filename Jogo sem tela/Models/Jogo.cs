@@ -17,23 +17,23 @@ namespace Jogo_sem_tela.Models
         {
             if(Jogador == Maquina)
             {
-                Console.WriteLine($"\tEmpate\n Jogador: {Jogador} X Maquina: {Maquina}.");
+                Console.WriteLine($"Jogador: {Jogador}\n\tX\nMaquina: {Maquina}.\n\tEmpate!!");
             }
-            if(Jogador == "Pedra" && Maquina == "Tesoura")
+            else if(Jogador == "Pedra" && Maquina == "Tesoura")
             {
-                Console.WriteLine($"Jogador ganhou com {Jogador} x Maquina {Maquina}");
+                Console.WriteLine($"Jogador: {Jogador}\n\tX\nMaquina {Maquina}\n\tJogador Ganhou!!");
             }
-            if(Jogador == "Tesoura" && Maquina == "Papel")
+            else if(Jogador == "Tesoura" && Maquina == "Papel")
             {
-                Console.WriteLine($"Jogador ganhou com {Jogador} x Maquina {Maquina}");
+                Console.WriteLine($"Jogador: {Jogador}\n\tX\nMaquina {Maquina}\n\tJogador Ganhou!!");
             }
-            if(Jogador == "Papel" && Maquina == "Pedra")
+            else if(Jogador == "Papel" && Maquina == "Pedra")
             {
-                Console.WriteLine($"Jogador ganhou com {Jogador} x Maquina {Maquina}");
+                Console.WriteLine($"Jogador: {Jogador}\n\tX\nMaquina {Maquina}\n\tJogador Ganhou!!");
             }
             else
             {
-                Console.WriteLine($"Maquina ganhou com {Maquina} x Maquina {Jogador}");
+                Console.WriteLine($"Jogador: {Jogador}\n\tX\nMaquina: {Maquina}\n\tMaquina Ganhou!!");
             }
         }
     }

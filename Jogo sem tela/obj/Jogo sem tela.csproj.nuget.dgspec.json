@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathe\\documents\\Repositórios\\Pedra-Papel-Tesoura\\Jogo sem tela\\Jogo sem tela.csproj": {}
+    "c:\\Users\\mathe\\documents\\Repositórios\\Pedra-Papel-Tesoura\\Jogo sem tela\\Jogo sem tela.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathe\\documents\\Repositórios\\Pedra-Papel-Tesoura\\Jogo sem tela\\Jogo sem tela.csproj": {
+    "c:\\Users\\mathe\\documents\\Repositórios\\Pedra-Papel-Tesoura\\Jogo sem tela\\Jogo sem tela.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\documents\\Repositórios\\Pedra-Papel-Tesoura\\Jogo sem tela\\Jogo sem tela.csproj",
+        "projectUniqueName": "c:\\Users\\mathe\\documents\\Repositórios\\Pedra-Papel-Tesoura\\Jogo sem tela\\Jogo sem tela.csproj",
         "projectName": "Jogo sem tela",
-        "projectPath": "C:\\Users\\mathe\\documents\\Repositórios\\Pedra-Papel-Tesoura\\Jogo sem tela\\Jogo sem tela.csproj",
+        "projectPath": "c:\\Users\\mathe\\documents\\Repositórios\\Pedra-Papel-Tesoura\\Jogo sem tela\\Jogo sem tela.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\documents\\Repositórios\\Pedra-Papel-Tesoura\\Jogo sem tela\\obj\\",
+        "outputPath": "c:\\Users\\mathe\\documents\\Repositórios\\Pedra-Papel-Tesoura\\Jogo sem tela\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"

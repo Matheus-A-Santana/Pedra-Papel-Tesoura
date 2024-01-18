@@ -1,0 +1,15 @@
+c:\Users\mathe\documents\Repositórios\Pedra-Papel-Tesoura\Jogo sem tela\bin\Debug\net8.0\Jogo sem tela.exe
+c:\Users\mathe\documents\Repositórios\Pedra-Papel-Tesoura\Jogo sem tela\bin\Debug\net8.0\Jogo sem tela.deps.json
+c:\Users\mathe\documents\Repositórios\Pedra-Papel-Tesoura\Jogo sem tela\bin\Debug\net8.0\Jogo sem tela.runtimeconfig.json
+c:\Users\mathe\documents\Repositórios\Pedra-Papel-Tesoura\Jogo sem tela\bin\Debug\net8.0\Jogo sem tela.dll
+c:\Users\mathe\documents\Repositórios\Pedra-Papel-Tesoura\Jogo sem tela\bin\Debug\net8.0\Jogo sem tela.pdb
+c:\Users\mathe\documents\Repositórios\Pedra-Papel-Tesoura\Jogo sem tela\obj\Debug\net8.0\Jogo sem tela.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mathe\documents\Repositórios\Pedra-Papel-Tesoura\Jogo sem tela\obj\Debug\net8.0\Jogo sem tela.AssemblyInfoInputs.cache
+c:\Users\mathe\documents\Repositórios\Pedra-Papel-Tesoura\Jogo sem tela\obj\Debug\net8.0\Jogo sem tela.AssemblyInfo.cs
+c:\Users\mathe\documents\Repositórios\Pedra-Papel-Tesoura\Jogo sem tela\obj\Debug\net8.0\Jogo sem tela.csproj.CoreCompileInputs.cache
+c:\Users\mathe\documents\Repositórios\Pedra-Papel-Tesoura\Jogo sem tela\obj\Debug\net8.0\Jogo sem tela.sourcelink.json
+c:\Users\mathe\documents\Repositórios\Pedra-Papel-Tesoura\Jogo sem tela\obj\Debug\net8.0\Jogo sem tela.dll
+c:\Users\mathe\documents\Repositórios\Pedra-Papel-Tesoura\Jogo sem tela\obj\Debug\net8.0\refint\Jogo sem tela.dll
+c:\Users\mathe\documents\Repositórios\Pedra-Papel-Tesoura\Jogo sem tela\obj\Debug\net8.0\Jogo sem tela.pdb
+c:\Users\mathe\documents\Repositórios\Pedra-Papel-Tesoura\Jogo sem tela\obj\Debug\net8.0\Jogo sem tela.genruntimeconfig.cache
+c:\Users\mathe\documents\Repositórios\Pedra-Papel-Tesoura\Jogo sem tela\obj\Debug\net8.0\ref\Jogo sem tela.dll
